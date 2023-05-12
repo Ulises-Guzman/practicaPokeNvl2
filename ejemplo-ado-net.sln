@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform-app", "Pokemons\winform-app.csproj", "{D940CC75-4FB1-47D9-9A10-7F24D2CE3A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{02E1C6FF-2FE4-4458-A137-27389A019970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{F8E77D61-F9C1-4622-8484-482925D91281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D940CC75-4FB1-47D9-9A10-7F24D2CE3A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D940CC75-4FB1-47D9-9A10-7F24D2CE3A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D940CC75-4FB1-47D9-9A10-7F24D2CE3A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D940CC75-4FB1-47D9-9A10-7F24D2CE3A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E1C6FF-2FE4-4458-A137-27389A019970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E1C6FF-2FE4-4458-A137-27389A019970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E1C6FF-2FE4-4458-A137-27389A019970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E1C6FF-2FE4-4458-A137-27389A019970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E77D61-F9C1-4622-8484-482925D91281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E77D61-F9C1-4622-8484-482925D91281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E77D61-F9C1-4622-8484-482925D91281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E77D61-F9C1-4622-8484-482925D91281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C89923C-CB96-4489-B6B4-3A893DA10338}
+	EndGlobalSection
+EndGlobal
